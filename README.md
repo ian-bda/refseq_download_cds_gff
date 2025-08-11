@@ -96,19 +96,6 @@ The script specifically filters for chromosome-level assemblies using the `--ass
 - **Naming**: `{accession}_{family}.gff`
 - **Source**: GFF annotation files from RefSeq
 
-## Example Families
-
-Here are some example families you can download:
-
-- **gobiidae**: Gobies and mudskippers
-- **apogonidae**: Cardinal fishes
-- **salmonidae**: Salmon and trout
-- **cyprinidae**: Carps and minnows
-- **cichlidae**: Cichlids
-- **tetraodontidae**: Pufferfishes
-- **gadidae**: Cod and related fishes
-- **pleuronectidae**: Flatfishes
-
 ## Troubleshooting
 
 ### Common Issues
