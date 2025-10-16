@@ -153,8 +153,3 @@ This script differs from the original goby download script in several ways:
 | **Database** | General NCBI | RefSeq only |
 | **File Formats** | Mixed formats | RefSeq-specific |
 | **Usage** | `--species` or `--all` | `--family` |
-
-## License
-
-This script is provided as-is for research purposes. Please ensure you comply with NCBI's terms of service when downloading data.
-
